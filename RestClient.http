@@ -8,3 +8,11 @@ http://localhost:8080/stream
 ########
 
 http://localhost:8080/joke
+
+########
+
+http://localhost:8080/acme/chat?message=What%20are%20top%205%20NBA%20teams%20of%20all%20time
+
+########
+
+http://localhost:8080/posts/new
