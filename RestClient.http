@@ -16,3 +16,20 @@ http://localhost:8080/acme/chat?message=What%20are%20top%205%20NBA%20teams%20of%
 ########
 
 http://localhost:8080/posts/new
+
+
+########
+
+http://localhost:8080/vacation/unstructured
+
+########
+
+http://localhost:8080/vacation/structured
+
+########
+
+http://localhost:8080/image-to-text
+
+########
+
+http://localhost:8080/generate-image
