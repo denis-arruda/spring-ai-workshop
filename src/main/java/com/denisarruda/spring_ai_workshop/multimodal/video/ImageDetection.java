@@ -1,4 +1,4 @@
-package com.denisarruda.spring_ai_workshop.multimodal;
+package com.denisarruda.spring_ai_workshop.multimodal.video;
 
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.beans.factory.annotation.Value;

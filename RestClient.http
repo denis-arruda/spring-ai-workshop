@@ -33,3 +33,7 @@ http://localhost:8080/image-to-text
 ########
 
 http://localhost:8080/generate-image
+
+#########
+
+http://localhost:8080/speak

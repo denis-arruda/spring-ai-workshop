@@ -1,4 +1,4 @@
-package com.denisarruda.spring_ai_workshop.multimodal;
+package com.denisarruda.spring_ai_workshop.multimodal.video;
 
 import java.util.Map;
 
