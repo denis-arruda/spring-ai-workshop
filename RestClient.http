@@ -37,3 +37,19 @@ http://localhost:8080/generate-image
 #########
 
 http://localhost:8080/speak
+
+#########
+
+http://localhost:8080/memory?message=Hello%20my%20name%20is%20John
+
+#########
+
+http://localhost:8080/memory?message=What%20is%20my%20name?
+
+#########
+
+http://localhost:8080/models
+
+#########
+
+http://localhost:8080/models/stuff-the-prompt
