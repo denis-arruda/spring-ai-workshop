@@ -1,0 +1,5 @@
+package com.denisarruda.spring_ai_workshop.rag;
+
+public record Model(String company, String model, int contextWindowSize) {
+
+}

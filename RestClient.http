@@ -53,3 +53,16 @@ http://localhost:8080/models
 #########
 
 http://localhost:8080/models/stuff-the-prompt
+
+#########
+
+http://localhost:8080/rag/models
+
+#########
+
+http://localhost:8080/tools
+
+
+#########
+
+http://localhost:8080/tasks?message=Create a task to buy groceries, with a description of Buy milk, eggs, and bread, and assign it to Denis.
